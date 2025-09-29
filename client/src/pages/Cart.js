@@ -5,6 +5,8 @@ import { FaPlus, FaMinus } from 'react-icons/fa';
 import { displayVNDCurrency } from '../helpers/displayCurrency';
 import { Link } from 'react-router-dom';
 
+const backendDomain = process.env.REACT_APP_BACKEND_URL || "http://localhost:5000";
+
 const Cart = () => {
     const [data, setData] = useState([]);
     const [loading, setLoading] = useState(false);
@@ -83,7 +85,7 @@ const Cart = () => {
 
             const idCart = data[0]?._id;
 
-            const res = await fetch('http://localhost:5000/api/checkout', {
+            const res = await fetch(`${backendDomain}/api/checkout`, {
                 method: 'POST',
                 credentials: 'include',
                 headers: { 'Content-Type': 'application/json' },
