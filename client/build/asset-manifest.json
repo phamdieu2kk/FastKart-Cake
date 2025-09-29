@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b728bc7.css",
+    "main.js": "/static/js/main.e9e9ce6d.js",
+    "static/js/453.46dc3e92.chunk.js": "/static/js/453.46dc3e92.chunk.js",
+    "static/media/success.gif": "/static/media/success.71f3f7a6d8059b2c288b.gif",
+    "static/media/Concept-3-vertical.webp": "/static/media/Concept-3-vertical.70c5a0dd79daaf2aa935.webp",
+    "static/media/Concept7vertical.webp": "/static/media/Concept7vertical.c1a191bdfea0d197afb9.webp",
+    "static/media/Home-slide.webp": "/static/media/Home-slide.68855ea83cb63cd528b4.webp",
+    "static/media/Concept-25.webp": "/static/media/Concept-25.ebf3982a7502a2891da5.webp",
+    "static/media/slider_2.webp": "/static/media/slider_2.ba375e85bb1792184906.webp",
+    "static/media/cancel.gif": "/static/media/cancel.6a260b56112c5212c4c4.gif",
+    "static/media/slider_1 (1).webp": "/static/media/slider_1 (1).a1f234b2b4b56792b1f9.webp",
+    "static/media/about_1.webp": "/static/media/about_1.ed0d8d010fbd2032e5e8.webp",
+    "static/media/image_mailchimp.webp": "/static/media/image_mailchimp.6ac366b17fdc45e85971.webp",
+    "static/media/about_2.webp": "/static/media/about_2.c69ddc9a33c599428e84.webp",
+    "static/media/2banner_2.webp": "/static/media/2banner_2.a89848a000643cfd15dc.webp",
+    "static/media/2banner_1.webp": "/static/media/2banner_1.67d4b5190a48906ec7e9.webp",
+    "static/media/banner.webp": "/static/media/banner.24617ff7d59079d87c98.webp",
+    "static/media/danhmuc_2.webp": "/static/media/danhmuc_2.84d865bee7ffa5397566.webp",
+    "static/media/danhmuc_1.webp": "/static/media/danhmuc_1.1915b2c536904a3db41a.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7b728bc7.css.map": "/static/css/main.7b728bc7.css.map",
+    "main.e9e9ce6d.js.map": "/static/js/main.e9e9ce6d.js.map",
+    "453.46dc3e92.chunk.js.map": "/static/js/453.46dc3e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b728bc7.css",
+    "static/js/main.e9e9ce6d.js"
+  ]
+}
